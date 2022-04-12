@@ -1,0 +1,7 @@
+name: workflow1
+on: [push]
+jobs:
+  hey:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "GG"
