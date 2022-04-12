@@ -4,6 +4,6 @@ jobs:
   hey:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "GG"
+      - run: echo "AA"
       - uses: Ch1mple/my-workflow-nodejs@main
       - uses: Ch1mple/my-workflow-docker@main
