@@ -8,5 +8,5 @@ jobs:
       - uses: Ch1mple/my-workflow-nodejs@main
       - uses: Ch1mple/my-workflow-docker@main
         with:
-          FIRST_NAME: 'John Tre'
+          FIRST_NAME: 'John 4'
 
