@@ -6,3 +6,4 @@ jobs:
     steps:
       - run: echo "GG"
       - uses: Ch1mple/my-workflow-nodejs@main
+      - uses: Ch1mple/my-workflow-docker@main
